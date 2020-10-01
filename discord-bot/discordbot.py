@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'NzYxMzUyMDM5MDY5NjQ2OTE5.X3ZWVw.oV6qkvnUB9g5r3_WWZJX3Xp7AtY'  # Bot token available at Discord's dev portal
+TOKEN = ''  # Bot token available at Discord's dev portal
 prefix = '!'
 
 bot = commands.Bot(command_prefix=prefix)
